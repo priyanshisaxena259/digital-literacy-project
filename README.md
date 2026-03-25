@@ -22,7 +22,7 @@ Created a digital literacy awareness infographic using Canva.
 Built profiles on GitHub, LinkedIn and Kaggle.
 
 ### Task 3 – Platforms
-Solved a beginner problem on CodeChef and created a Google Form quiz.
+Solved a beginner problem on HackerRank and created a Google Form quiz.
 
 ### Task 4 – Email Etiquette
 Drafted professional emails and created a social media checklist.
@@ -33,4 +33,4 @@ Prepared a case study on phishing and a prevention checklist.
 ---
 
 ## Links
-Google Form: 
+Google Form: https://forms.gle/7HHSBQ8wV3oqUNN69
