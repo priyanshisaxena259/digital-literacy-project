@@ -9,7 +9,7 @@ Year: 1st Year
 ---
 
 ## Project Overview
-This project was completed as part of the CSE0001 Digital Literacy course. The project is based on the role of a Student Digital Ambassador, where the responsibility is to guide peers in understanding and using digital tools effectively, safely, and responsibly. It focuses on building awareness about digital tools, online safety, professional communication and cybercrime prevention.
+This project was completed as part of the CSE0001 Digital Literacy course. The project is based on the role of a Student Digital Ambassador, where the responsibility is to guide peers in understanding and using digital tools effectively, safely and responsibly. It focuses on building awareness about digital tools, online safety, professional communication and cybercrime prevention.
 
 ---
 
